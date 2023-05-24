@@ -1,0 +1,15 @@
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\bin\Debug\net7.0\Banking_DelegatePractice.Application.deps.json
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\bin\Debug\net7.0\Banking_DelegatePractice.Application.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\bin\Debug\net7.0\Banking_DelegatePractice.Application.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\bin\Debug\net7.0\Banking_DelegatePractice.Domain.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\bin\Debug\net7.0\Banking_DelegatePractice.Domain.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\Banking_DelegatePractice.Application.csproj.AssemblyReference.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\Banking_DelegatePractice.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\Banking_DelegatePractice.Application.AssemblyInfoInputs.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\Banking_DelegatePractice.Application.AssemblyInfo.cs
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\Banking_DelegatePractice.Application.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\Banking_DelegatePractice.Application.csproj.CopyComplete
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\Banking_DelegatePractice.Application.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\refint\Banking_DelegatePractice.Application.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\Banking_DelegatePractice.Application.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\Banking_DelegatePractice.Application\obj\Debug\net7.0\ref\Banking_DelegatePractice.Application.dll

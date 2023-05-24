@@ -1,0 +1,17 @@
+﻿namespace Banking_DelegatePractice_Application
+{
+    using Banking_DelegatePractice_Domain;
+
+    public interface IAccountRepository
+    {
+        void Add(Account account);
+
+        void Update(Account account);
+        
+        void Delete(Guid id);
+        
+        Account? Get(Guid id);
+
+        List<Account>? GetAll();
+    }
+}
