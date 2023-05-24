@@ -1,0 +1,12 @@
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\bin\Debug\net7.0\DelegatePractice.Banking.Domain.deps.json
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\bin\Debug\net7.0\DelegatePractice.Banking.Domain.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\bin\Debug\net7.0\DelegatePractice.Banking.Domain.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\DelegatePractice.Banking.Domain.csproj.AssemblyReference.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\DelegatePractice.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\DelegatePractice.Banking.Domain.AssemblyInfoInputs.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\DelegatePractice.Banking.Domain.AssemblyInfo.cs
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\DelegatePractice.Banking.Domain.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\DelegatePractice.Banking.Domain.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\refint\DelegatePractice.Banking.Domain.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\DelegatePractice.Banking.Domain.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Domain\obj\Debug\net7.0\ref\DelegatePractice.Banking.Domain.dll
