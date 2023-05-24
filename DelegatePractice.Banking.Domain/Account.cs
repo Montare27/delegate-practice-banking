@@ -31,6 +31,7 @@
             else
             {
                 Notify?.Invoke($"Not enough money on your waller");
+                //
             }
         }
     }
