@@ -1,0 +1,17 @@
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\bin\Debug\net7.0\DelegatePractice.Banking.Infrastructure.deps.json
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\bin\Debug\net7.0\DelegatePractice.Banking.Infrastructure.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\bin\Debug\net7.0\DelegatePractice.Banking.Infrastructure.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\bin\Debug\net7.0\DelegatePractice.Banking.Application.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\bin\Debug\net7.0\DelegatePractice.Banking.Domain.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\bin\Debug\net7.0\DelegatePractice.Banking.Application.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\bin\Debug\net7.0\DelegatePractice.Banking.Domain.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\DelegatePractice.Banking.Infrastructure.csproj.AssemblyReference.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\DelegatePractice.Banking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\DelegatePractice.Banking.Infrastructure.AssemblyInfoInputs.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\DelegatePractice.Banking.Infrastructure.AssemblyInfo.cs
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\DelegatePractice.Banking.Infrastructure.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\DelegatePractice.Banking.Infrastructure.csproj.CopyComplete
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\DelegatePractice.Banking.Infrastructure.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\refint\DelegatePractice.Banking.Infrastructure.dll
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\DelegatePractice.Banking.Infrastructure.pdb
+D:\WorkSpaces\RiderProjects\DelegatePractice.Banking\DelegatePractice.Banking.Infrastructure\obj\Debug\net7.0\ref\DelegatePractice.Banking.Infrastructure.dll

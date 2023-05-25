@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Banking_Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Banking_Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Banking_Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Banking_Application.dll": {}
+        }
+      },
+      "Banking_Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Banking_Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Banking_Domain.dll": {}
+        }
+      },
+      "Banking_Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Banking_Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Banking_Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Banking_Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banking_Application/1.0.0": {
+      "type": "project",
+      "path": "../Banking_Application/Banking_Application.csproj",
+      "msbuildProject": "../Banking_Application/Banking_Application.csproj"
+    },
+    "Banking_Domain/1.0.0": {
+      "type": "project",
+      "path": "../Banking_Domain/Banking_Domain.csproj",
+      "msbuildProject": "../Banking_Domain/Banking_Domain.csproj"
+    },
+    "Banking_Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Banking_Infrastructure/Banking_Infrastructure.csproj",
+      "msbuildProject": "../Banking_Infrastructure/Banking_Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Banking_Application >= 1.0.0",
+      "Banking_Domain >= 1.0.0",
+      "Banking_Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dmitr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Presentation\\Banking_Presentation.csproj",
+      "projectName": "Banking_Presentation",
+      "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Presentation\\Banking_Presentation.csproj",
+      "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
+      "outputPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Presentation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj": {
+              "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj"
+            },
+            "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj": {
+              "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj"
+            },
+            "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Infrastructure\\Banking_Infrastructure.csproj": {
+              "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Infrastructure\\Banking_Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Banking_DelegatePractice_Presentation/1.0.0": {
+        "dependencies": {
+          "Banking_DelegatePractice_Application": "1.0.0",
+          "Banking_DelegatePractice_Domain": "1.0.0",
+          "Banking_DelegatePractice_Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Banking_DelegatePractice_Presentation.dll": {}
+        }
+      },
+      "Banking_DelegatePractice_Application/1.0.0": {
+        "dependencies": {
+          "Banking_DelegatePractice_Domain": "1.0.0"
+        },
+        "runtime": {
+          "Banking_DelegatePractice_Application.dll": {}
+        }
+      },
+      "Banking_DelegatePractice_Domain/1.0.0": {
+        "runtime": {
+          "Banking_DelegatePractice_Domain.dll": {}
+        }
+      },
+      "Banking_DelegatePractice_Infrastructure/1.0.0": {
+        "dependencies": {
+          "Banking_DelegatePractice_Application": "1.0.0"
+        },
+        "runtime": {
+          "Banking_DelegatePractice_Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banking_DelegatePractice_Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking_DelegatePractice_Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking_DelegatePractice_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking_DelegatePractice_Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

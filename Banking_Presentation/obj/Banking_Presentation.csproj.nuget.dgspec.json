@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Presentation\\Banking_Presentation.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj",
+        "projectName": "Banking_Application",
+        "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj",
+        "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj": {
+                "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj",
+        "projectName": "Banking_Domain",
+        "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj",
+        "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Infrastructure\\Banking_Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Infrastructure\\Banking_Infrastructure.csproj",
+        "projectName": "Banking_Infrastructure",
+        "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Infrastructure\\Banking_Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj": {
+                "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Presentation\\Banking_Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Presentation\\Banking_Presentation.csproj",
+        "projectName": "Banking_Presentation",
+        "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Presentation\\Banking_Presentation.csproj",
+        "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj": {
+                "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Application\\Banking_Application.csproj"
+              },
+              "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj": {
+                "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Domain\\Banking_Domain.csproj"
+              },
+              "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Infrastructure\\Banking_Infrastructure.csproj": {
+                "projectPath": "D:\\WorkSpaces\\RiderProjects\\Banking_DelegatePractice\\Banking_Infrastructure\\Banking_Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
