@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking_Application", "Banking_Application\Banking_Application.csproj", "{670938D4-8BC3-4984-ADDB-9ADBC57709B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{670938D4-8BC3-4984-ADDB-9ADBC57709B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking_Domain", "Banking_Domain\Banking_Domain.csproj", "{F5E36854-9817-42E7-B21F-C1F142338F56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{F5E36854-9817-42E7-B21F-C1F142338F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking_Infrastructure", "Banking_Infrastructure\Banking_Infrastructure.csproj", "{5CEDFAD0-370D-41F8-9434-852BAF7F661D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5CEDFAD0-370D-41F8-9434-852BAF7F661D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking_Presentation", "Banking_Presentation\Banking_Presentation.csproj", "{D1198BD4-0485-448D-A864-3E9DD0F14734}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{D1198BD4-0485-448D-A864-3E9DD0F14734}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
